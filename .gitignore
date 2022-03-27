@@ -37,4 +37,5 @@ xcuserdata/
 DS_Store
 FireAuth/GoogleService-info.plist
 GoogleService-info.plist
+*/GoogleService-info.plist
 # End of https://www.toptal.com/developers/gitignore/api/xcode,cocoapods,firebase

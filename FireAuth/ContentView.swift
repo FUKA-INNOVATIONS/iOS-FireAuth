@@ -2,7 +2,7 @@
 //  ContentView.swift
 //  FireAuth
 //
-//  Created by Koulu on 25.3.2022.
+//  Created by FUKA on 25.3.2022.
 //
 
 import SwiftUI
